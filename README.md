@@ -1,6 +1,7 @@
-## hallo &nbsp;&nbsp;&nbsp; <img src="waving-hand.gif" height="100"/>
-
---- 
+<div style="display:flex; align-items:center; gap:20px;">
+    <h1>hallo</h1>
+    <img src="path/to/wave.gif" width="120"/>
+</div>
 
 my name is Ronnie, and i'm currently:
 - working on a native ios application in Swift
