@@ -1,4 +1,4 @@
-## hallo <img src="waving-hand.gif" height="200"/>
+## hallo <img src="waving-hand.gif" height="100"/>
 
 --- 
 
