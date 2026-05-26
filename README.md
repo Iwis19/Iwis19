@@ -1,8 +1,11 @@
-## hallo      <img src="waving-hand.gif" height="100"/>
+## hallo &nbsp;&nbsp;&nbsp; <img src="waving-hand.gif" height="100"/>
 
 --- 
 
-my name is Ronnie, and i'm currently working on a native ios application in Swift, learning more about spring boot, and grinding leetcodes (trees & sql for now)
+my name is Ronnie, and i'm currently:
+- working on a native ios application in Swift
+- learning more about spring boot,
+- grinding leetcodes (trees & sql for now)
 
 <!--
 **Iwis19/Iwis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
