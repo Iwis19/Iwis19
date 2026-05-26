@@ -1,4 +1,4 @@
-hallo &nbsp;&nbsp;&nbsp; <img src="path/to/wave.gif" width="100"/>
+hallo &nbsp;&nbsp;&nbsp; <img src="waving-hand.gif" width="100"/>
 
 my name is Ronnie, and i'm currently:
 - working on a native ios application in Swift
