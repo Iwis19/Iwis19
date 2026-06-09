@@ -1,9 +1,13 @@
 ## hallo &nbsp;&nbsp;&nbsp; <img src="ezgif-87d65a4379aed261.gif" width="150"/>
 
-my name is Ronnie, and i'm currently:
-- working on a native ios application in Swift
-- learning more about spring boot,
+my name is Ronnie, and 
+
+i'm currently:
+- working on a cool spring boot project
 - grinding leetcodes (trees & sql for now)
+
+i'm gonna:
+- work at rbc summer tech labs this summer :)
 
 <!--
 **Iwis19/Iwis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
