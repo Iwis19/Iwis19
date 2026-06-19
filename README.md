@@ -4,7 +4,7 @@ my name is Ronnie, and
 
 i'm currently:
 - working on a cool spring boot project
-- grinding leetcodes (trees & sql for now)
+- grinding leetcodes (trees & recursion / backtracking for now)
 
 i'm gonna:
 - work at rbc summer tech labs this summer :)
