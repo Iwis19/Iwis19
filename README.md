@@ -7,7 +7,7 @@ i'm currently:
 - grinding leetcodes (trees & recursion / backtracking for now)
 
 i'm gonna:
-- work at rbc summer tech labs this summer :)
+- work at rbc embark this summer :)
 
 <!--
 **Iwis19/Iwis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
